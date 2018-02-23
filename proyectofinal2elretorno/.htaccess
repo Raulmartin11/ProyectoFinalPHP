@@ -1,0 +1,8 @@
+RewriteEngine on
+
+# Redirecciones
+ErrorDocument 404 http://localhost/proyectofinal2elretorno/error404.php
+
+# API: noticias
+RewriteCond %{QUERY_STRING} ^api_key=(.*)$
+RewriteRule ^noticias/$ api.php
