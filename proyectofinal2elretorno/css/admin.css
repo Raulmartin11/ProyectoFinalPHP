@@ -1,0 +1,15 @@
+.imgport {
+  max-width: 75px;
+  max-height: 75px;
+  margin-left: 0px;
+}
+A:hover {
+text-decoration: none;
+color: #fff;
+afont-weight: bold;
+}
+A {
+text-decoration: none;
+color: #fff;
+afont-weight: bold;
+}

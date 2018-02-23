@@ -1,0 +1,49 @@
+
+ img {
+  max-width: 500px;
+  max-height: 500px;
+  margin-left: 100px;
+}
+body {
+  background-color:#e9ecef;
+}
+.btn {
+  margin-left: 10px;
+}
+.form-inline {
+  margin-left: auto;
+  padding-right: 15px;
+}
+.titulo {
+  position: absolute;
+  margin-left: auto;
+  list-style: none;
+  left: 46%;
+}
+.imgtitulo {
+  max-width: 50px;
+  max-height: 50px;
+  position: absolute;
+  top: -3px;
+  left: 30%;
+}
+.texto {
+  margin: 10px 50px;
+}
+.coment {
+  color:#858586;
+}
+.textoNombre {
+  margin: 10px 50px;
+  font-weight:bold;
+}
+A:hover {
+text-decoration: none;
+color: #fff;
+afont-weight: bold;
+}
+A {
+text-decoration: none;
+color: #fff;
+afont-weight: bold;
+}
